@@ -1,0 +1,22 @@
+body {
+  padding-bottom: 30px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.avatar {
+  max-width: 120px;
+  max-height: 120px;
+  margin-bottom: 10px;
+}
+
+.submit-avatar {
+  margin-top: 10px;
+}
+
+.avatar-input {
+  max-width: 200px;
+}
